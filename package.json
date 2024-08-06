@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pcsclite": "^1.0.1"
+  }
+}
